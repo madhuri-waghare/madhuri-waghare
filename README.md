@@ -1,11 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm madhuri waghare</h1>
 <h3 align="center">A passionate frontend develorrper from India</h3>
-(img aling="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-gif-4706460855862906629")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuri-waghare&label=Profile%20views&color=0e75b6&style=flat" alt="madhuri-waghare" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **sping boot**
